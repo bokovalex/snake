@@ -11,6 +11,12 @@ namespace snake
         static void Main(string[] args)
         {
             Console.WriteLine(  "hello world!");
+
+            Console.WriteLine("hello world!");
+            Console.WriteLine("hello world!");
+            Console.WriteLine("hello world!");
+            Console.WriteLine("hello world!");
+
             Console.ReadKey();
         }
     }
